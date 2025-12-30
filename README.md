@@ -59,17 +59,16 @@ Feel free to explore my projects and connect with me! 🌟
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpkpaswan&show_icons=true&theme=dark&cache_seconds=86400)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpkpaswan&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=dpkpaswan&theme=dark&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dpkpaswan&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpkpaswan&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dpkpaswan&layout=compact&theme=dark&cache_seconds=86400)
 
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dpkpaswan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dpkpaswan&theme=radical&no-frame=false&no-bg=true&margin-w=4&cache_seconds=86400)
 
 ---
 
